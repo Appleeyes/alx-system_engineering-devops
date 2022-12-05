@@ -65,4 +65,16 @@
    -this file contains a script that reverse its input.
 
 22-users_and_homes
-   this file contains a script that displays all users and their home directories, sorted by users.|
+   -this file contains a script that displays all users and their home directories, sorted by users
+
+100-empty_casks
+   -this file contains a script that finds all empty files and directories in the current directory and all sub-directories.
+
+101-gifs
+   -this file contains a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+102-acrostic
+  -this file contains the script that decodes acrostics that use the first letter of each line.
+
+103-the_biggest_fan
+  -this file contain a script thatparses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.|
