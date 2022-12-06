@@ -39,3 +39,15 @@
 
 13-print_float
   -this file contains a script that prints a number with two decimal places, followed by a new line.
+
+100-decimal_to_hexadecimal
+  -this file contains a script that converts a number from base 10 to base 16.
+
+101-rot13
+  -this file contains a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+102-odd
+  -this file contains a script that prints every other line from the input, starting with the first line.
+
+103-water_and_stir
+  -this file contains a script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
